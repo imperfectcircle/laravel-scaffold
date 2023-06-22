@@ -1,8 +1,9 @@
 <?php
 
-use App\Http\Controllers\ContactController;
-use App\Http\Controllers\PublicController;
 use Illuminate\Support\Facades\Route;
+use Spatie\Honeypot\ProtectAgainstSpam;
+use App\Http\Controllers\PublicController;
+use App\Http\Controllers\ContactController;
 
 /*
 |--------------------------------------------------------------------------
