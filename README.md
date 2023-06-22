@@ -1,9 +1,7 @@
 # Laravel Scaffold
 
-Laravel Scaffold is a free, Open Source Starter kit whit Tailwind CSS, Flowbite, and Spatie Honeypot
+Laravel Scaffold is a free, Open Source Starter kit whit [Tailwind CSS](https://tailwindcss.com/), [Flowbite](https://flowbite.com/), and [Spatie Honeypot](https://github.com/spatie/laravel-honeypot).
 Created with Laravel 10.13+.
-
-See the [documentation](http://laravel-scaffold-docs.modulr.io) for more details or you can also try our live [demo](http://laravel-scaffold.modulr.io).
 
 
 ## Installation
